@@ -1,0 +1,13 @@
+
+V
+java:S1126k"AReplace this if-then-else statement by a single return statement.(¨ğÌ^
+M
+java:S1068"2Remove this unused "maxStayInQueue" private field.(Üµø²şÿÿÿÿ
+H
+java:S1068"-Remove this unused "maxLength" private field.(„‡Üëıÿÿÿÿ
+=
+java:S1068"(Remove this unused "last" private field.(ä•ò
+\
+java:S1126s"AReplace this if-then-else statement by a single return statement.(æª”óûÿÿÿÿ
+D
+java:S1068")Remove this unused "first" private field.(ñÍëáûÿÿÿÿ
